@@ -1,7 +1,7 @@
 
 from datetime import datetime, timedelta
 from textwrap import dedent
-
+import icecream
 # The DAG object; we'll need this to instantiate a DAG
 from airflow import DAG
 

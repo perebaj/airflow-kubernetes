@@ -5,8 +5,7 @@ On this project, I learned how helm take care about dependencies and how to use 
 Also, how create a custom Airflow image to install Python packages and sync all using an GitHub repository.
 I have intent to use continuous integration on this repository, simulating a production environment where app and packages versions has to updated, all of that to teams that not necessary have DevOps or infra skills can work together.
 
-Its necessary to run this project
-
+To run this project it is necessary
 - minikube
 - Docker
 - Kubernets(kubectl)
